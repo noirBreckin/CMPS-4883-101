@@ -1,1 +1,0 @@
-For assignment 2, we were tasked with creating our repository for this class: CMPS-4883-101 Programming Techniques. Yes I know that making files and posts for this assignment and the previous one is redundant, but I want to organize it this way for posterity. :)
