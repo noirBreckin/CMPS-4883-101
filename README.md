@@ -3,6 +3,8 @@
 ## Breckin Hume
 #### Repo: CMPS-4883-101
 #### Email: breckin.hume@gmail.com
+#### Leetcode: NoirBreckin
+#### UVA: NoirBreckin
 #### Image:
 ![me](https://user-images.githubusercontent.com/112154255/188815930-80cac66b-ad63-43bc-b460-f39023e7923f.jpg)
 #### Avatar:
