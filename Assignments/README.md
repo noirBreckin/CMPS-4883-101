@@ -10,3 +10,4 @@
 |   6   | [A06](https://github.com/noirBreckin/CMPS-4883-101/blob/main/Assignments/A06)               |  Hardwood Sneezy   |   Assignment 6   |
 |   7   | [A07](https://github.com/noirBreckin/CMPS-4883-101/blob/main/Assignments/A07)               |  Priority Queezy   |   Assignment 7   |
 |   8   | [A08](https://github.com/noirBreckin/CMPS-4883-101/blob/main/Assignments/A08)               |  Graphin Sleezy   |   Assignment 8   |
+|   9   | [A09](https://github.com/noirBreckin/CMPS-4883-101/blob/main/Assignments/A09)               |  Convex Hull   |   Assignment 9   |
