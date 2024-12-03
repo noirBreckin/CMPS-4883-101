@@ -20,4 +20,4 @@ An exponent is defined with an exponent notation 'e' or 'E' followed by an integ
 
 The digits are defined as one or more digits.
 
-I presented my work using the presentation here(https://docs.google.com/presentation/d/1RdUHMshgVKso27aBhskK7foJ8cmmuTQIOfSpJ-UId8U/edit?usp=sharing)
+I presented my work using the presentation [here](https://docs.google.com/presentation/d/1RdUHMshgVKso27aBhskK7foJ8cmmuTQIOfSpJ-UId8U/edit?usp=sharing)
